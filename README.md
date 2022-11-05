@@ -1,6 +1,6 @@
 # Jbox2d Project
 
-This project is a platformer java game where the player should pick up objects to progress to the next level. There are three levels in the game and each of them have different obstacles. The main objective of the game is to complete it hence no scoring system was introduced.
+This project is a platformer where the player should pick up objects to progress to the next level. There are three levels in the game and each of them have different obstacles. The main objective of the game is to complete it hence no scoring system was introduced.
 Features included in the game:
 
 ### The playable character
